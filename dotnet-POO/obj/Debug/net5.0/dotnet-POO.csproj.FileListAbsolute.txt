@@ -1,0 +1,16 @@
+C:\EstudosC#\mentorias\dotnet-POO\bin\Debug\net5.0\dotnet-POO.exe
+C:\EstudosC#\mentorias\dotnet-POO\bin\Debug\net5.0\dotnet-POO.deps.json
+C:\EstudosC#\mentorias\dotnet-POO\bin\Debug\net5.0\dotnet-POO.runtimeconfig.json
+C:\EstudosC#\mentorias\dotnet-POO\bin\Debug\net5.0\dotnet-POO.runtimeconfig.dev.json
+C:\EstudosC#\mentorias\dotnet-POO\bin\Debug\net5.0\dotnet-POO.dll
+C:\EstudosC#\mentorias\dotnet-POO\bin\Debug\net5.0\ref\dotnet-POO.dll
+C:\EstudosC#\mentorias\dotnet-POO\bin\Debug\net5.0\dotnet-POO.pdb
+C:\EstudosC#\mentorias\dotnet-POO\obj\Debug\net5.0\dotnet-POO.csproj.AssemblyReference.cache
+C:\EstudosC#\mentorias\dotnet-POO\obj\Debug\net5.0\dotnet-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudosC#\mentorias\dotnet-POO\obj\Debug\net5.0\dotnet-POO.AssemblyInfoInputs.cache
+C:\EstudosC#\mentorias\dotnet-POO\obj\Debug\net5.0\dotnet-POO.AssemblyInfo.cs
+C:\EstudosC#\mentorias\dotnet-POO\obj\Debug\net5.0\dotnet-POO.csproj.CoreCompileInputs.cache
+C:\EstudosC#\mentorias\dotnet-POO\obj\Debug\net5.0\dotnet-POO.dll
+C:\EstudosC#\mentorias\dotnet-POO\obj\Debug\net5.0\ref\dotnet-POO.dll
+C:\EstudosC#\mentorias\dotnet-POO\obj\Debug\net5.0\dotnet-POO.pdb
+C:\EstudosC#\mentorias\dotnet-POO\obj\Debug\net5.0\dotnet-POO.genruntimeconfig.cache
