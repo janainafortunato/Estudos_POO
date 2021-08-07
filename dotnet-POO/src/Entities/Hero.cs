@@ -1,6 +1,6 @@
 namespace dotnet_POO.src.Entities
 {
-    public class Hero
+    public abstract class Hero
     {
         public Hero(string Name, int Level, string HeroType){
             this.Name = Name;

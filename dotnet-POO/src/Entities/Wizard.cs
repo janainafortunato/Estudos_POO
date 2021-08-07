@@ -12,5 +12,15 @@ namespace dotnet_POO.src.Entities
        public  override string Attack(){
             return this.Name + " Lançou Magia!!! ";
         }
+
+        public string Attack(int Bonus){
+
+            if(Bonus > 6){
+                 return this.Name + " Lançou Magia super efetiva com de " + Bonus;
+            }else{
+                return this.Name + " Lançou uma magia com força fraca com bonus de " + Bonus;
+            }
+           
+        }
     }
 }
